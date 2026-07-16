@@ -54,3 +54,6 @@ Feel free to open a PR to suggest a new tool. Please ensure:
 - The tool has a free tier or demo
 - It fits the "fun / creative" theme
 - No NSFW or spam content
+
+## git book link
+https://ming-9.gitbook.io/ming-docs
